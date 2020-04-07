@@ -1,7 +1,7 @@
 # ExpenseProjectApi
 ## Development server
 
-Run `node server.js` for a dev server. Navigate to `http://localhost:8080`. You have to reload manually after making any changes. 
+Run `node server.js` for a dev server inside the project. Navigate to `http://localhost:8080`. You have to reload manually after making any changes. 
 
 ## Further Details
 
